@@ -1,6 +1,6 @@
 wordpress:
   image:
-    version: 5.0.2
+    tag: invalid
   wordpressPassword: foo
   mariadb:
     db:
